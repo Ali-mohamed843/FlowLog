@@ -41,7 +41,12 @@ ever sent to any API.
 
 ## Screenshots
 
-> Add your screenshots here
+![Latest Context](screenshots/latest.png)
+![Activity Charts](screenshots/activity.png)
+![Activity Charts](screenshots/activity-hours.png)
+![Themes](screenshots/theme-1.png)
+![Themes](screenshots/theme-2.png)
+
 
 ---
 
