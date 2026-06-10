@@ -1,0 +1,21 @@
+{
+  "name": "devcontext",
+  "version": "1.0.0",
+  "description": "A background tool that captures your developer mental working state",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:react": "cd react-ui && npm run build",
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "chokidar": "^4.0.3",
+    "electron-store": "^8.2.0",
+    "pg": "^8.13.1",
+    "simple-git": "^3.27.0"
+  },
+  "devDependencies": {
+    "electron": "^33.3.1"
+  }
+}
