@@ -130,7 +130,7 @@ ever sent to any API.
 ### Install
 
 ```bash
-git clone https://github.com/yourusername/FlowLog
+git clone https://github.com/Ali-mohamed843/FlowLog.git
 cd  FlowLog
 npm install
 npm start
